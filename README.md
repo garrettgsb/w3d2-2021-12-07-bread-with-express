@@ -28,32 +28,6 @@
 * What's CRUD stand for?
 * What are the two reasons that we aren't going to use CRUD in this lecture?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Resources
 
 * What's a resource?
@@ -73,11 +47,18 @@
 
 ## VERBS
 
+**CRUD**
+
+```
 Create
 Read
 Update
 Delete
+```
 
+**BREAD**
+
+```
 Browse
 Read
 Edit
@@ -88,6 +69,7 @@ Delete
 
 Resources
 
+```
 products
 carts
 playlists
@@ -106,10 +88,13 @@ messages
 comments
 searches???
 restaurants
+```
 
 
 
 ### Our app will have...
+
+```
 restaurants
   browse       GET /restaurants
   read         GET /restaurants/:id
@@ -154,3 +139,4 @@ sessions
   edit ????
   add - login
   delete - logout
+```
