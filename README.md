@@ -2,20 +2,20 @@
 
 ## Learning Outcomes
 
-[ ] Review: Make an Express app from scratch
+* [ ] Review: Make an Express app from scratch
 
-[ ] What's a resource?
-[ ] What's CRUD/BREAD mean?
-[ ] What is REST?
+* [ ] What's a resource?
+* [ ] What's CRUD/BREAD mean?
+* [ ] What is REST?
 
-[ ] GET requests are for requesting to _view_ information
-[ ] POST requests are for requesting to _change_ information
-[ ] Request-response cycle: Every request _must_ get a response
+* [ ] GET requests are for requesting to _view_ information
+* [ ] POST requests are for requesting to _change_ information
+* [ ] Request-response cycle: Every request _must_ get a response
 
-[ ] HTML forms: The most standard way to make POST requests
-[ ] Dev tools: How to use the network tab
+* [ ] HTML forms: The most standard way to make POST requests
+* [ ] Dev tools: How to use the network tab
 
-[ ] How to do HTTP redirects in Express
+* [ ] How to do HTTP redirects in Express
 
 ## Express Review
 
@@ -64,6 +64,7 @@ Read
 Edit
 Add
 Delete
+```
 
 ## NOUNS
 
